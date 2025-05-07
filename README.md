@@ -1,23 +1,67 @@
-# Simple Program Aplikasi Native
+# 🛡️ D-CSRF Connect
+[![Platform](https://img.shields.io/badge/Platform-Android-green)]()
+[![Built with](https://img.shields.io/badge/Built%20With-Kotlin%20%26%20XML-blue)]()
+[![Status](https://img.shields.io/badge/Status-Beta-orange)]()
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
 
-Ini adalah contoh sederhana aplikasi native yang dibangun untuk menunjukkan struktur dasar dan fitur minimal dari aplikasi native.
+### 👤 Tentang Saya  
+**Nama:** Haidir Mirza Ahmad Zacky  
+**NIM:** 23552011072  
+**Kelas:** TIF RP 23 CNS B  
 
-## 🛠️ Teknologi yang Digunakan
+---
 
-- Bahasa Pemrograman: [Contoh: C/C++, Java, Kotlin, Swift]
-- Platform: [Contoh: Windows, Linux, Android, iOS]
-- Build Tools: [Contoh: Makefile, Gradle, Xcode]
+**D-CSRF Connect** adalah aplikasi Android komunitas yang dirancang untuk memfasilitasi komunikasi dan pembelajaran bagi para anggota dalam bidang **Development** dan **Cyber Security**. Aplikasi ini dikembangkan sebagai studi kasus UTS *Mobile Programming 1* di Universitas Teknologi Bandung.
 
-## 📦 Fitur
+---
 
-- Antarmuka pengguna sederhana
-- Respon cepat karena native langsung ke sistem operasi
-- Struktur kode mudah dipahami dan dikembangkan
+### 🚀 Fitur Utama
 
-## 🚀 Cara Menjalankan
+- 💬 **Login & Register**  
+  Sistem autentikasi lokal menggunakan `SharedPreferences`.
 
-1. Clone repository ini:
+- 🗣️ **List Chat**  
+  Menampilkan daftar percakapan antar anggota serta grup komunitas seperti Red Team, Blue Team, Dev Team, CTF Squad, dll.
 
-   ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+- 📚 **Materi Edukasi**  
+  Menyediakan daftar materi belajar seputar topik pengembangan perangkat lunak dan keamanan siber.
+
+- 🎨 **Desain Clean & Modern**  
+  Tampilan berbasis Material Design dengan warna dominan merah (#D32F2F) yang konsisten dan profesional.
+
+- ☰ **Toolbar Menu**  
+  Navigasi mudah ke halaman "Materi" dan opsi logout melalui menu titik tiga di pojok kanan atas.
+
+---
+
+### 🧱 Teknologi yang Digunakan
+
+- Android Studio (Native)
+- Kotlin + XML
+
+---
+
+### 📷 Preview Screenshot
+
+| Splash Screen | Login | List Chat |
+|---------------|-------|-----------|
+| ![splash](preview/splash.png) | ![login](preview/login.png) | ![chat](preview/chat.png) |
+
+| Materi |
+|--------|
+| ![materi](preview/materi.png) |
+
+---
+
+### 📝 Laporan Proyek
+
+Dokumen laporan lengkap mengenai pengembangan aplikasi ini tersedia dalam format PDF:
+
+📄 **[Unduh Laporan PDF](docs/Laporan_D-CSRF_Connect.pdf)**
+
+---
+
+### 👨‍💻 Kontributor
+
+- Haidir Zacky — Infromatics Engineer  
+- Universitas Teknologi Bandung — *UTS Mobile Programming 1*
