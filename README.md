@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="BannerDcsrf.png" alt="dcsrf Banner" width="100%">
+</p>
+
 # 🛡️ D-CSRF Connect
 [![Platform](https://img.shields.io/badge/Platform-Android-green)]()
 [![Built with](https://img.shields.io/badge/Built%20With-Kotlin%20%26%20XML-blue)]()
