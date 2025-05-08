@@ -45,15 +45,17 @@
 
 ---
 
-### 📷 Preview Screenshot
+### Authentication Screens
 
-| Splash Screen | Login | List Chat |
-|---------------|-------|-----------|
-| ![splash](preview/splash.png) | ![login](preview/login.png) | ![chat](preview/chat.png) |
+| Splash Screen | Login | Register |
+|---------------|--------|-----------|
+| ![splash](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/preview%20app/SplashScreen.jpg) | ![login](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/preview%20app/Login.jpg) | ![register](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/preview%20app/Register.jpg) |
 
-| Materi |
-|--------|
-| ![materi](preview/materi.png) |
+### Main Features
+
+| List Chat | Materi |
+|-----------|--------|
+| ![chat](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/preview%20app/ListChat.jpg) | ![materi](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/preview%20app/ListMateri.jpg) |
 
 ---
 
@@ -61,7 +63,7 @@
 
 Dokumen laporan lengkap mengenai pengembangan aplikasi ini tersedia dalam format PDF:
 
-📄 **[Unduh Laporan PDF](docs/Laporan_D-CSRF_Connect.pdf)**
+📄 **[Laporan PDF](https://github.com/jck-cysec/UTS-PM1-HaidirZacky/blob/main/docs/UTS%20PM1%20-%20HaidirMirzaAhmadZacky%20-%2023552011072.pdf)**
 
 ---
 
